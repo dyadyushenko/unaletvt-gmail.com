@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9abe9358-c76c-4a3b-ba71-bd264035e2b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/containers/MediaGalleryPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/mediaActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/actionTypes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/route.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584890543077</updated>
-      <workItem from="1584890546115" duration="8395000" />
+      <workItem from="1584890546115" duration="8824000" />
     </task>
     <task id="LOCAL-00001" summary="create a base components, non redux">
       <created>1584900435603</created>
@@ -83,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584901160066</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add media vie page">
+      <created>1584905454309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584905454309</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,17 +98,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create a base components, non redux" />
     <MESSAGE value="Add api" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add api" />
+    <MESSAGE value="add media vie page" />
+    <option name="LAST_COMMIT_MESSAGE" value="add media vie page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584890955157">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584890955157" />
-    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1584901158597">
+    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1584905453246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584901158597" />
+    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584905453246" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584890549230">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
