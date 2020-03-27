@@ -1,5 +1,5 @@
 const FLICKR_API_KEY = '200e099350725a35c72da91fe5a4cb00';
-const SHUTTER_CLIENT_ID = '261719322';
+const SHUTTER_CLIENT_ID = '19bHfDVu1F3sJHutnmOLUp9q8oIAIMRA';
 const SHUTTER_CLIENT_SECRET = 'L33c43A6hy7cSAAl';
 
 // Basic Authentication for accessing Shutterstock API
